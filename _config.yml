@@ -36,6 +36,7 @@ github:
 
 # Build settings
 markdown: kramdown
+show_drafts: false
 # theme: minima
 theme: jekyll-theme-midnight
 gems:
